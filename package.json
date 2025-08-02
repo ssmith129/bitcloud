@@ -50,10 +50,9 @@
     ]
   },
   "devDependencies": {}
-},
+  },
   "overrides": {
     "react-tradingview-widget": {
       "react": "$react"
     }
   }
-}
